@@ -1,0 +1,16 @@
+body{
+  background: #fafafa;
+}
+
+.container{
+  margin-top: 8%;
+  text-align: center;
+}
+
+input{
+  margin: 5% auto;
+}
+
+[type='file']{
+  //display: none;
+}
